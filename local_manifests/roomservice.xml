@@ -1,1 +1,5 @@
-.repo/twrp_liuqin.mk
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="external/gflags" name="platform/external/gflags" />
+  <project path=".repo/twrp_liuqin.mk" name="twrp_liuqin.mk" />
+</manifest>
